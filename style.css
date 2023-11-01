@@ -1,0 +1,11 @@
+.carousel-item {
+  max-height: calc(100vh - 100px);
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.a::-webkit-input-placeholder {
+  color: white;
+}
